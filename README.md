@@ -1,2 +1,3 @@
-# oos-wopi-security-test-20261110
-Temporary controlled WOPI files for an authorized security test; no production data.
+# Authorized OOS WOPI security test
+
+Temporary controlled files for an authorized security test. The workbooks contain only synthetic `Security Test` data and no production information.
